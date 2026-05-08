@@ -1,5 +1,5 @@
 # Fun
-Small projects I built for fun — games, tools, and experiments.
+Small projects I built for fun.
 
 ## Projects
 
