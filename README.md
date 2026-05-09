@@ -1,4 +1,6 @@
-# Fun
+# My playground
+
+
 Small projects I built for fun.
 
 ## Projects
