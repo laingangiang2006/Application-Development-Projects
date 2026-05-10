@@ -1,9 +1,5 @@
 # My playground
 
-These are projects I built for learning and fun.
-
-----
-
 ## Projects
 
 ### 1. Quiz
