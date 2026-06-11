@@ -2,7 +2,7 @@
 
 ## 1. About
 
-These are personal side projects created for learning and fun. Feel free to explore the code!
+These are some projects created for learning basic HTML, CSS and Python. Feel free to explore the code!
 
 ---
 
