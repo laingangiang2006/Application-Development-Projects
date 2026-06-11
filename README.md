@@ -6,7 +6,7 @@ These are personal side projects created for learning and fun. Feel free to expl
 
 ---
 
-## 2. Projects
+## 2. Plunker
 
 ### 2.1. Quiz
 
