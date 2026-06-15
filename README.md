@@ -1,8 +1,8 @@
-# My playground
+# Basic HTML, CSS, Javascript and Python Projects
 
 ## 1. About
 
-These are some projects created for learning basic HTML, CSS and Python. Feel free to explore the code!
+These are some projects created for learning basic HTML, CSS, Javascript and Python. Feel free to explore the code!
 
 ---
 
