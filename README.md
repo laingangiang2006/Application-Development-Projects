@@ -24,12 +24,12 @@ These are some projects created for learning basic HTML, CSS, Javascript and Pyt
 
 | Projects | Small projects | Link |
 |----------|----------------|------|
-| **Quiz** | [Try on Plunker](https://plnkr.co/plunk/KpcoMbESsiqVY229) |
-| **To-do List** | [Try on Plunker](https://plnkr.co/edit/UsM4dpbQH7dHZY6E) |
-| **Random number generator** | [Try on Plunker](https://plnkr.co/plunk/pCkobiolI4EXOz6c) |
-| **Counter** | [Try on Plunker](https://plnkr.co/plunk/w187hxvvIvQADxYb) |
-| **Github User Finder** | [Try on Plunker](https://plnkr.co/plunk/T39hc6OtQv1A1eoz) |
-| Foundations of App Development (INFO102) | **WWP1 (HTML, CSS)** | [Try on Plunker](https://plnkr.co/edit/CFuQpvTwIF2hpMX1) |
+| **Quiz** | | [Try on Plunker](https://plnkr.co/plunk/KpcoMbESsiqVY229) |
+| **To-do List** | | [Try on Plunker](https://plnkr.co/edit/UsM4dpbQH7dHZY6E) |
+| **Random number generator** | | [Try on Plunker](https://plnkr.co/plunk/pCkobiolI4EXOz6c) |
+| **Counter** | | [Try on Plunker](https://plnkr.co/plunk/w187hxvvIvQADxYb) |
+| **Github User Finder** | | [Try on Plunker](https://plnkr.co/plunk/T39hc6OtQv1A1eoz) |
+| **Foundations of App Development (INFO102)** | **WWP1 (HTML, CSS)** | [Try on Plunker](https://plnkr.co/edit/CFuQpvTwIF2hpMX1) |
 | | **WWP2 (Basic Python)** | [Try on Plunker](https://plnkr.co/edit/Ak5Lzak1gn7ryZsV?preview) |
 | | **WWP3 (Vue)** | [Try on Plunker](https://plnkr.co/edit/JOaXSJKPuygMzI3f?preview) |
 | | **WWP4 (More Python)** | [Try on Plunker](https://plnkr.co/edit/DKJdCvyprKzH7Bla?preview) |
@@ -37,7 +37,7 @@ These are some projects created for learning basic HTML, CSS, Javascript and Pyt
 | | **WWP6 (Iterative Dialogue with AI)** | [Try on Plunker](https://plnkr.co/edit/ixJ9ouzbDFkzbni3?open=lib%2Findex.html) |
 | | **Week 3 Workshop Task** | [Try on Plunker](https://plnkr.co/edit/IEJayBDkk3VtfkzK?preview) |
 | | **Week 4 Workshop Task** | [Try on Plunker](https://plnkr.co/edit/fwhDrkeH3xYuq7hP) |
-| | **Week 5 Workshop Task ** | [Try on Plunker](https://plnkr.co/edit/Psw1N32iJz6XVuX8) |
+| | **Week 5 Workshop Task** | [Try on Plunker](https://plnkr.co/edit/Psw1N32iJz6XVuX8) |
 | | **Week 6 Workshop Task** | [Try on Plunker](https://plnkr.co/edit/iljv20jwffdBOIdC?open=lib%252Findex.html) |
 
 ---
